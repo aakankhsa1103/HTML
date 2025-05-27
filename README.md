@@ -65,7 +65,7 @@ width:100%;
 </div>
 
 <div class="house">
-<img src="https://www.w3schools.com/w3images/house3.jpg"> 
+<img src="https://# HTMLwww.w3schools.com/w3images/house3.jpg"> 
 </div>
  
 
