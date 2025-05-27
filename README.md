@@ -5,12 +5,12 @@
 
 .container{
 display: flex;
-gap: 20px;
+gap: 15px;
 flex-wrap:wrap;
 
 }
 .house{
-width:25%;
+width:20%;
 }
 .house img{
 width:100%;
